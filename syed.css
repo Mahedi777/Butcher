@@ -1,0 +1,31 @@
+.content{
+	margin: 0 auto;
+	width: 960px;
+	overflow: hidden;
+}
+.content h2{
+	font-size: 28px;
+	padding: 20px 0;
+}
+.services{
+	overflow: hidden;
+	padding: 76px 0 50px 0;
+}
+.services li{
+	display: inline-block;
+	margin-right: 75px;
+	overflow: hidden;
+}
+.services li:last-child{
+	margin-right: 0;
+}
+
+}
+.disc_outer{
+	background: #fff;
+	overflow: hidden;
+	border:2px solid #dedede;
+	height: 178px;
+	width: 178px;
+	border-radius: 100%;
+}
